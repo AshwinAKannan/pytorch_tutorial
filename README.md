@@ -3,7 +3,7 @@ PyTorch Tutorial
 
 This project is going to contain the material of the PyTorch tutorial.
 
-Video
+### Video
 
 - [tutorial](https://www.youtube.com/watch?v=_H3aw6wkCv0)
 
