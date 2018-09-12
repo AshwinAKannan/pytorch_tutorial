@@ -3,6 +3,10 @@ PyTorch Tutorial
 
 This project is going to contain the material of the PyTorch tutorial.
 
+Video
+
+- [tutorial](https://www.youtube.com/watch?v=_H3aw6wkCv0)
+
 Content
 -------
 - [00-index](notebooks/00_index.ipynb)
